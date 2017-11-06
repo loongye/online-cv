@@ -1,9 +1,9 @@
 - skill:
-  name: Python & C++
-  level: 78%
-- skill:
   name: HTML5 & CSS
   level: 95%
+- skill:
+  name: Python & C++
+  level: 78%
 - skill:
   name: Illustrator & Photoshop
   level: 60%
