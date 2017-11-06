@@ -1,11 +1,10 @@
 - intro:
-  description: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
-  sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+  description: "Some projects in my spare time:"
 
 - project:
-  title: Velocity
-  link: "#hook"
-  tagline: "A responsive website template designed to help startups promote, market and sell their products."
+  title: Linda Nam Photography
+  link: "https://www.lindanamphotography.com/"
+  tagline: "A responsive website for a client, implementing the Bootstrap framework."
 - project:
   title: DevStudio
   link: "#"
